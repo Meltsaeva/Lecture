@@ -1,0 +1,15 @@
+/Users/goddes/Documents/C#/Example001/bin/Debug/net6.0/Example001
+/Users/goddes/Documents/C#/Example001/bin/Debug/net6.0/Example001.deps.json
+/Users/goddes/Documents/C#/Example001/bin/Debug/net6.0/Example001.runtimeconfig.json
+/Users/goddes/Documents/C#/Example001/bin/Debug/net6.0/Example001.dll
+/Users/goddes/Documents/C#/Example001/bin/Debug/net6.0/Example001.pdb
+/Users/goddes/Documents/C#/Example001/obj/Debug/net6.0/Example001.csproj.AssemblyReference.cache
+/Users/goddes/Documents/C#/Example001/obj/Debug/net6.0/Example001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goddes/Documents/C#/Example001/obj/Debug/net6.0/Example001.AssemblyInfoInputs.cache
+/Users/goddes/Documents/C#/Example001/obj/Debug/net6.0/Example001.AssemblyInfo.cs
+/Users/goddes/Documents/C#/Example001/obj/Debug/net6.0/Example001.csproj.CoreCompileInputs.cache
+/Users/goddes/Documents/C#/Example001/obj/Debug/net6.0/Example001.dll
+/Users/goddes/Documents/C#/Example001/obj/Debug/net6.0/refint/Example001.dll
+/Users/goddes/Documents/C#/Example001/obj/Debug/net6.0/Example001.pdb
+/Users/goddes/Documents/C#/Example001/obj/Debug/net6.0/Example001.genruntimeconfig.cache
+/Users/goddes/Documents/C#/Example001/obj/Debug/net6.0/ref/Example001.dll
