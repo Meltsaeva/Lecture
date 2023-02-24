@@ -1,0 +1,15 @@
+/Users/goddes/Documents/Homework/Lecture/Example012/bin/Debug/net6.0/Example012
+/Users/goddes/Documents/Homework/Lecture/Example012/bin/Debug/net6.0/Example012.deps.json
+/Users/goddes/Documents/Homework/Lecture/Example012/bin/Debug/net6.0/Example012.runtimeconfig.json
+/Users/goddes/Documents/Homework/Lecture/Example012/bin/Debug/net6.0/Example012.dll
+/Users/goddes/Documents/Homework/Lecture/Example012/bin/Debug/net6.0/Example012.pdb
+/Users/goddes/Documents/Homework/Lecture/Example012/obj/Debug/net6.0/Example012.csproj.AssemblyReference.cache
+/Users/goddes/Documents/Homework/Lecture/Example012/obj/Debug/net6.0/Example012.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goddes/Documents/Homework/Lecture/Example012/obj/Debug/net6.0/Example012.AssemblyInfoInputs.cache
+/Users/goddes/Documents/Homework/Lecture/Example012/obj/Debug/net6.0/Example012.AssemblyInfo.cs
+/Users/goddes/Documents/Homework/Lecture/Example012/obj/Debug/net6.0/Example012.csproj.CoreCompileInputs.cache
+/Users/goddes/Documents/Homework/Lecture/Example012/obj/Debug/net6.0/Example012.dll
+/Users/goddes/Documents/Homework/Lecture/Example012/obj/Debug/net6.0/refint/Example012.dll
+/Users/goddes/Documents/Homework/Lecture/Example012/obj/Debug/net6.0/Example012.pdb
+/Users/goddes/Documents/Homework/Lecture/Example012/obj/Debug/net6.0/Example012.genruntimeconfig.cache
+/Users/goddes/Documents/Homework/Lecture/Example012/obj/Debug/net6.0/ref/Example012.dll
